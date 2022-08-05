@@ -256,7 +256,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-            { value: "https://jth-subconver.herokuapp.com/sub?" },
+            { value: "http://black-brook-d2cb.gbstar1.workers.dev/sub?" },
             { value: "https://subconver-temp1.koyeb.app/sub?" },
         ],
         remoteConfig: [
