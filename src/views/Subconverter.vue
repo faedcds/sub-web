@@ -256,7 +256,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-            { value: "http://black-brook-d2cb.gbstar1.workers.dev/sub?" },
+            { value: "https://black-brook-d2cb.gbstar1.workers.dev/sub?" },
             { value: "https://subconver-temp1.koyeb.app/sub?" },
         ],
         remoteConfig: [
